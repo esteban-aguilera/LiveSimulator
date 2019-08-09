@@ -1,2 +1,2 @@
 # LiveSimulator
-GUI created to solve numerically partial differential equations
+Partial differential equation solver with a GUI.
